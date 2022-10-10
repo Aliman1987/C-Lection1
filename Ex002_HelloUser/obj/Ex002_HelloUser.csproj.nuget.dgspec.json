@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Руслан\\Desktop\\SeminarGitHub\\Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj": {}
+    "C:\\Users\\Руслан\\Documents\\Обучение IT\\Практика С#\\Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Руслан\\Desktop\\SeminarGitHub\\Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj": {
+    "C:\\Users\\Руслан\\Documents\\Обучение IT\\Практика С#\\Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Руслан\\Desktop\\SeminarGitHub\\Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj",
+        "projectUniqueName": "C:\\Users\\Руслан\\Documents\\Обучение IT\\Практика С#\\Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj",
         "projectName": "Ex002_HelloUser",
-        "projectPath": "C:\\Users\\Руслан\\Desktop\\SeminarGitHub\\Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj",
+        "projectPath": "C:\\Users\\Руслан\\Documents\\Обучение IT\\Практика С#\\Examples\\Ex002_HelloUser\\Ex002_HelloUser.csproj",
         "packagesPath": "C:\\Users\\Руслан\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Руслан\\Desktop\\SeminarGitHub\\Examples\\Ex002_HelloUser\\obj\\",
+        "outputPath": "C:\\Users\\Руслан\\Documents\\Обучение IT\\Практика С#\\Examples\\Ex002_HelloUser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Руслан\\AppData\\Roaming\\NuGet\\NuGet.Config"

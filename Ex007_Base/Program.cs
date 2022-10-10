@@ -6,9 +6,9 @@ int c = 6;
 int d = 8;
 int e = 4;
 
-int max = a;
+int max = a; //Примем индекс первого исследуемого за максимальное значение,
 
-if (a > max ) max = a;
+if (a > max ) max = a; //если значение а больше максимального, то а принимаем за максимальное
 if (b > max ) max = b;
 if (c > max ) max = c;
 if (d > max ) max = d;
